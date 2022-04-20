@@ -4,4 +4,4 @@
 * [Solution: DFS & BFS](Day01/.)
 
 ### Day 2 - CP (Length of Longest Substring)
-* [Solution: DFS & BFS](Day02/.)
+* [Solution](Day02/.)
